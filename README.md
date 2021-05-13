@@ -1,6 +1,6 @@
 ## Coding myself to Space! 🚀
 
-<p>Hey there! Welcome to my page </br> I'm Bilaal, a Full Stack Software Engineer from 🇬🇭 & 🇯🇵 currently living in <b>Tokyo, Japan</b>. </p>
+<p>Hey there! Welcome to my page </br> I'm Bilaal, a Full Stack Software Engineer from 🇬🇭 &🇯🇵 currently living in <b>Tokyo</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -35,5 +35,6 @@
   <a href="https://www.linkedin.com/in/bilaal-ukishima-90a47415b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-[![Bilaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilaalukis)](https://github.com/anuraghazra/github-readme-stats)
+[![Bilaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilaalukis&show_icons=true&theme=tokyonight)
+)](https://github.com/anuraghazra/github-readme-stats)
 
