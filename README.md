@@ -1,6 +1,6 @@
 ### Coding myself to Space! 🚀
 
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilaal-ukishima-90a47415b/)](https://www.linkedin.com/in/bilaal-ukishima-90a47415b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bilaal Ukishima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilaal-ukishima-90a47415b/)](https://www.linkedin.com/in/bilaal-ukishima-90a47415b/)
 
 <!--
 **bilaalukis/bilaalukis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
