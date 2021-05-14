@@ -1,6 +1,6 @@
 ## Coding myself to Space! 🚀
 
-<p>Hey there! Welcome to my page </br> I'm Bilaal, a Full Stack Software Engineer from 🇬🇭 &🇯🇵 currently living in <b>Tokyo</b>. </p>
+<p>Hey there! Welcome to my page </br> I'm Bilaal, a Full Stack Software Engineer from 🇬🇭  & 🇯🇵 currently living in <b>Tokyo</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
